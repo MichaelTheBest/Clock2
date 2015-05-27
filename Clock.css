@@ -1,0 +1,40 @@
+
+h1 {
+color:green;
+font-size:50px;
+text-align:center;
+font-style: normal;
+}
+
+body {
+background-color:  gray;
+font-style: oblique;
+font-family: Comic Sans MS, Helvetica, Times new roman;
+}
+script{
+font-size:80PX;
+text-align:center;
+color: blue;
+
+}
+p{
+text-align:center;
+color: red;
+font-size:60PX;
+}
+
+a{
+font-size:80px;
+color:#006600;
+}
+
+test{
+font-size:80px;
+color:#006600;
+}
+.clock{
+font-size:40PX;
+text-align:center;
+color: blue;
+}
+
